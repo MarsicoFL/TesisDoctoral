@@ -1,5 +1,7 @@
-# TesisDoctoral
-Este repositorio contiene la tesis doctoral titulada "Herramientas matemático-computacionales para la búsqueda de personas desaparecidas".
+# Herramientas matemático-computacionales para la búsqueda de personas desaparecidas
+Autor. Franco Marsico.
+Directora. Inés Caridi.
+Co-director. Ariel Chernomoretz.
 
 ## Resumen
 La búsqueda de personas desaparecidas es una tarea que requiere múltiples pasos, desde
