@@ -1,6 +1,9 @@
 # Herramientas matemático-computacionales para la búsqueda de personas desaparecidas
+
 Autor. Franco Marsico.
+
 Directora. Inés Caridi.
+
 Co-director. Ariel Chernomoretz.
 
 ## Resumen
@@ -12,10 +15,10 @@ Durante el proceso, se recopilan diferentes líneas de evidencia, cada una con d
 grados de complejidad, que van desde la edad hasta las características genéticas de los
 individuos. El papel del científico forense es asignar probabilidades a las diferentes
 evidencias, considerando las proposiciones presentadas para explicarlas, siempre y cuando
-puedan ser formalizadas matemáticamente. Aun-que varias líneas de evidencia pueden ser
+puedan ser formalizadas matemáticamente. Aunque varias líneas de evidencia pueden ser
 formalizadas, los datos genéticos se han convertido en la pieza clave para las
 identificaciones en los últimos años, dejando a otras evidencias relegadas. Cuando los datos
-genéticos inicialmente recolectados no son suficientes, ya sea por el mal esta-do de las
+genéticos inicialmente recolectados no son suficientes, ya sea por el mal estado de las
 muestras o la dificultad para genotipificar a los individuos, es necesario incorporar más
 evidencias y tomar decisiones con lo que se tiene disponible. En esta tesis, se abordan
 algunos de estos aspectos y se plantean tres problemas: formalización, optimización y
