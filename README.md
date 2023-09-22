@@ -2,10 +2,6 @@
 
 Autor. Franco Marsico.
 
-Directora. Inés Caridi.
-
-Co-director. Ariel Chernomoretz.
-
 ## Resumen
 La búsqueda de personas desaparecidas es una tarea que requiere múltiples pasos, desde
 la recopilación de información básica sobre el caso, hasta la toma de decisiones respecto a
